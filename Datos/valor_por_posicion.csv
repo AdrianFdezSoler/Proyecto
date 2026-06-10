@@ -1,0 +1,2347 @@
+liga,position,valor
+Premier League,Midfield,0.75
+Bundesliga,Midfield,2.0
+LaLiga,Defender,1.4
+Serie A,Defender,0.8
+LaLiga,Midfield,0.5
+Ligue 1,Defender,0.5
+Premier League,Midfield,8.0
+Bundesliga,Goalkeeper,4.0
+Ligue 1,Goalkeeper,0.25
+Bundesliga,Goalkeeper,0.7
+LaLiga,Goalkeeper,0.1
+Serie A,Goalkeeper,0.15
+Serie A,Midfield,4.0
+Bundesliga,Attack,2.7
+Premier League,Goalkeeper,0.25
+Premier League,Goalkeeper,0.1
+LaLiga,Midfield,1.0
+Bundesliga,Goalkeeper,0.3
+Serie A,Defender,0.4
+Premier League,Goalkeeper,0.15
+LaLiga,Midfield,1.4
+LaLiga,Attack,15.0
+Ligue 1,Goalkeeper,0.25
+Bundesliga,Goalkeeper,0.2
+LaLiga,Attack,1.4
+Bundesliga,Goalkeeper,0.7
+Serie A,Goalkeeper,2.5
+LaLiga,Goalkeeper,6.0
+Ligue 1,Goalkeeper,2.0
+LaLiga,Attack,3.0
+Bundesliga,Midfield,3.0
+Ligue 1,Goalkeeper,1.8
+Bundesliga,Defender,0.35
+Premier League,Midfield,15.0
+Bundesliga,Goalkeeper,0.3
+Premier League,Goalkeeper,0.6
+LaLiga,Goalkeeper,0.2
+Serie A,Defender,1.5
+Bundesliga,Goalkeeper,3.0
+Bundesliga,Midfield,0.5
+Serie A,Midfield,3.5
+Bundesliga,Goalkeeper,2.0
+LaLiga,Defender,1.2
+Ligue 1,Attack,5.0
+Bundesliga,Defender,0.7
+LaLiga,Defender,20.0
+LaLiga,Attack,0.9
+Serie A,Goalkeeper,3.5
+LaLiga,Midfield,2.5
+Ligue 1,Goalkeeper,0.2
+Ligue 1,Goalkeeper,4.0
+Premier League,Midfield,2.0
+LaLiga,Defender,1.8
+Premier League,Defender,0.5
+Ligue 1,Defender,0.4
+Premier League,Attack,1.0
+Serie A,Attack,0.7
+Serie A,Attack,1.0
+Premier League,Attack,4.0
+Serie A,Attack,1.0
+Premier League,Defender,0.3
+Bundesliga,Midfield,3.0
+Serie A,Goalkeeper,0.3
+LaLiga,Goalkeeper,0.6
+LaLiga,Attack,1.8
+Premier League,Goalkeeper,8.0
+LaLiga,Goalkeeper,0.9
+Premier League,Goalkeeper,0.75
+Serie A,Attack,8.0
+LaLiga,Midfield,7.0
+LaLiga,Midfield,2.5
+Serie A,Midfield,3.0
+Bundesliga,Midfield,3.5
+LaLiga,Goalkeeper,28.0
+Ligue 1,Midfield,0.8
+Premier League,Goalkeeper,0.75
+Serie A,Goalkeeper,0.2
+Serie A,Attack,8.0
+Bundesliga,Defender,0.6
+Bundesliga,Goalkeeper,0.8
+LaLiga,Defender,1.4
+Ligue 1,Defender,1.8
+Serie A,Goalkeeper,2.5
+Bundesliga,Goalkeeper,2.0
+Serie A,Defender,0.8
+Bundesliga,Defender,0.6
+Ligue 1,Attack,3.0
+Premier League,Midfield,3.5
+Ligue 1,Defender,0.4
+Ligue 1,Midfield,4.0
+Bundesliga,Goalkeeper,1.2
+Premier League,Defender,1.5
+LaLiga,Midfield,8.0
+LaLiga,Defender,1.2
+Serie A,Midfield,1.5
+Serie A,Goalkeeper,0.5
+Bundesliga,Goalkeeper,0.25
+Bundesliga,Defender,1.2
+Premier League,Goalkeeper,5.0
+LaLiga,Defender,25.0
+LaLiga,Defender,3.5
+Serie A,Goalkeeper,0.15
+Serie A,Midfield,15.0
+Bundesliga,Goalkeeper,0.25
+Serie A,Midfield,1.0
+Bundesliga,Defender,1.5
+Bundesliga,Defender,2.0
+Bundesliga,Defender,6.0
+Bundesliga,Midfield,1.2
+LaLiga,Attack,1.0
+Serie A,Defender,10.0
+Bundesliga,Goalkeeper,0.4
+LaLiga,Goalkeeper,0.9
+Serie A,Attack,2.5
+Premier League,Defender,2.5
+Premier League,Goalkeeper,0.4
+Premier League,Defender,2.5
+Serie A,Goalkeeper,1.0
+Serie A,Attack,15.0
+Ligue 1,Attack,0.3
+Premier League,Defender,4.0
+LaLiga,Attack,1.5
+Premier League,Goalkeeper,1.0
+Bundesliga,Goalkeeper,0.3
+Serie A,Goalkeeper,0.3
+LaLiga,Defender,1.0
+Ligue 1,Defender,1.8
+LaLiga,Defender,2.5
+Premier League,Goalkeeper,17.0
+Ligue 1,Attack,2.0
+Bundesliga,Midfield,2.5
+Bundesliga,Defender,1.0
+Bundesliga,Midfield,3.0
+Bundesliga,Midfield,7.0
+Bundesliga,Defender,1.5
+Bundesliga,Goalkeeper,2.5
+LaLiga,Goalkeeper,28.0
+Premier League,Attack,8.0
+Bundesliga,Defender,0.8
+Premier League,Goalkeeper,5.0
+Serie A,Goalkeeper,2.0
+Premier League,Midfield,3.0
+Premier League,Defender,2.5
+Serie A,Defender,3.5
+Serie A,Goalkeeper,0.5
+Premier League,Midfield,10.0
+LaLiga,Defender,0.2
+Ligue 1,Defender,0.5
+Premier League,Goalkeeper,15.0
+LaLiga,Defender,2.0
+Ligue 1,Goalkeeper,0.25
+Ligue 1,Midfield,1.5
+Bundesliga,Attack,2.0
+Premier League,Goalkeeper,0.5
+Bundesliga,Defender,1.2
+Bundesliga,Midfield,4.5
+Bundesliga,Goalkeeper,1.0
+Ligue 1,Attack,0.7
+Premier League,Defender,4.0
+Serie A,Defender,3.5
+Bundesliga,Defender,2.0
+LaLiga,Goalkeeper,0.6
+Bundesliga,Defender,3.5
+Bundesliga,Midfield,2.0
+Bundesliga,Defender,6.0
+Bundesliga,Attack,1.5
+Premier League,Goalkeeper,7.0
+LaLiga,Goalkeeper,0.2
+Premier League,Goalkeeper,0.5
+Premier League,Defender,4.0
+LaLiga,Goalkeeper,17.0
+Serie A,Defender,1.5
+Ligue 1,Midfield,15.0
+Ligue 1,Defender,0.6
+Premier League,Midfield,0.75
+Premier League,Goalkeeper,0.3
+Premier League,Attack,5.0
+Bundesliga,Midfield,2.0
+LaLiga,Goalkeeper,4.0
+Bundesliga,Defender,6.0
+Serie A,Defender,1.4
+Premier League,Goalkeeper,4.0
+Ligue 1,Goalkeeper,0.5
+Bundesliga,Goalkeeper,8.0
+LaLiga,Attack,11.0
+Serie A,Midfield,22.0
+Ligue 1,Defender,4.5
+Premier League,Midfield,1.2
+Serie A,Goalkeeper,0.1
+Premier League,Defender,8.0
+Premier League,Midfield,1.0
+Serie A,Defender,1.5
+LaLiga,Attack,1.2
+LaLiga,Midfield,2.5
+LaLiga,Attack,1.4
+LaLiga,Defender,3.0
+Ligue 1,Midfield,0.7
+Premier League,Goalkeeper,3.5
+Ligue 1,Goalkeeper,0.8
+Ligue 1,Midfield,5.0
+Premier League,Goalkeeper,6.0
+Bundesliga,Defender,1.5
+Serie A,Attack,16.0
+LaLiga,Goalkeeper,2.0
+LaLiga,Defender,2.5
+LaLiga,Defender,3.5
+Premier League,Goalkeeper,15.0
+Serie A,Attack,0.6
+Serie A,Defender,2.5
+Ligue 1,Defender,8.0
+Serie A,Goalkeeper,0.5
+Premier League,Midfield,5.0
+Premier League,Attack,5.0
+Bundesliga,Attack,65.0
+Serie A,Midfield,7.0
+Bundesliga,Defender,2.5
+Premier League,Defender,5.0
+Premier League,Defender,6.0
+Serie A,Goalkeeper,0.35
+Serie A,Goalkeeper,1.5
+Premier League,Goalkeeper,1.0
+Serie A,Defender,1.5
+Ligue 1,Midfield,2.5
+LaLiga,Defender,12.0
+Premier League,Defender,18.0
+Bundesliga,Defender,1.0
+Premier League,Midfield,2.5
+LaLiga,Midfield,3.5
+LaLiga,Midfield,0.8
+Premier League,Defender,0.8
+Premier League,Goalkeeper,0.15
+LaLiga,Midfield,1.5
+Bundesliga,Attack,0.6
+Premier League,Attack,20.0
+LaLiga,Goalkeeper,0.3
+Serie A,Defender,1.3
+Premier League,Midfield,5.0
+Ligue 1,Goalkeeper,3.0
+Premier League,Defender,4.0
+Serie A,Midfield,4.0
+Premier League,Midfield,18.0
+Premier League,Attack,30.0
+Serie A,Defender,0.25
+Bundesliga,Midfield,15.0
+Bundesliga,Defender,1.5
+LaLiga,Defender,3.5
+Ligue 1,Defender,0.9
+Bundesliga,Defender,12.0
+Serie A,Midfield,2.0
+Bundesliga,Attack,6.0
+Bundesliga,Defender,2.7
+Bundesliga,Midfield,7.0
+Bundesliga,Attack,20.0
+Bundesliga,Defender,2.0
+Bundesliga,Goalkeeper,4.0
+Serie A,Defender,2.8
+Bundesliga,Goalkeeper,0.4
+Bundesliga,Goalkeeper,3.0
+Bundesliga,Goalkeeper,0.4
+Serie A,Defender,0.8
+Serie A,Midfield,6.5
+Bundesliga,Midfield,40.0
+Bundesliga,Goalkeeper,0.35
+Ligue 1,Defender,1.5
+Bundesliga,Defender,3.5
+Serie A,Defender,2.0
+Serie A,Goalkeeper,1.0
+Serie A,Defender,0.4
+Ligue 1,Goalkeeper,1.8
+Ligue 1,Goalkeeper,0.7
+LaLiga,Midfield,1.5
+LaLiga,Goalkeeper,2.0
+Serie A,Defender,10.0
+Ligue 1,Attack,12.0
+Serie A,Attack,8.0
+Bundesliga,Defender,5.0
+Premier League,Defender,4.5
+Serie A,Defender,1.4
+LaLiga,Attack,1.5
+Serie A,Attack,1.5
+Ligue 1,Midfield,18.0
+LaLiga,Midfield,4.0
+Bundesliga,Defender,0.8
+LaLiga,Defender,1.2
+Ligue 1,Defender,0.8
+Serie A,Defender,10.0
+LaLiga,Defender,1.2
+Serie A,Midfield,0.5
+Ligue 1,Goalkeeper,0.9
+Bundesliga,Defender,12.0
+Premier League,Defender,1.5
+Premier League,Defender,7.0
+Serie A,Midfield,3.5
+Ligue 1,Midfield,4.0
+Ligue 1,Defender,1.8
+LaLiga,Defender,2.5
+LaLiga,Midfield,1.8
+Ligue 1,Defender,4.5
+Ligue 1,Defender,7.0
+LaLiga,Defender,20.0
+LaLiga,Attack,0.9
+LaLiga,Attack,10.0
+Premier League,Defender,18.0
+Bundesliga,Midfield,2.5
+Serie A,Attack,10.0
+LaLiga,Attack,1.2
+Premier League,Defender,18.0
+Bundesliga,Attack,3.0
+Serie A,Midfield,10.0
+Ligue 1,Defender,2.5
+Ligue 1,Midfield,3.0
+Premier League,Midfield,6.0
+Ligue 1,Defender,30.0
+Ligue 1,Defender,10.0
+Ligue 1,Attack,1.8
+LaLiga,Defender,25.0
+Ligue 1,Defender,4.0
+LaLiga,Defender,10.0
+Serie A,Goalkeeper,38.0
+Serie A,Midfield,20.0
+Ligue 1,Attack,4.0
+Premier League,Defender,10.0
+Premier League,Defender,1.5
+Premier League,Defender,15.0
+Ligue 1,Attack,5.0
+Bundesliga,Attack,5.0
+Premier League,Midfield,5.0
+Ligue 1,Attack,1.8
+Serie A,Midfield,3.5
+Premier League,Defender,18.0
+Bundesliga,Attack,1.2
+Bundesliga,Midfield,20.0
+Bundesliga,Goalkeeper,0.8
+Ligue 1,Defender,4.0
+Premier League,Midfield,9.0
+Bundesliga,Attack,10.0
+Ligue 1,Goalkeeper,0.5
+Bundesliga,Midfield,10.0
+Bundesliga,Attack,0.7
+Ligue 1,Midfield,5.0
+Ligue 1,Defender,1.5
+Ligue 1,Goalkeeper,10.0
+LaLiga,Defender,4.0
+Bundesliga,Midfield,2.0
+Serie A,Attack,6.0
+LaLiga,Midfield,2.5
+Premier League,Goalkeeper,7.0
+Bundesliga,Defender,1.5
+Premier League,Goalkeeper,7.0
+Ligue 1,Defender,0.9
+Bundesliga,Midfield,1.5
+Serie A,Defender,3.0
+Bundesliga,Defender,8.0
+Serie A,Midfield,18.0
+Premier League,Defender,10.0
+Bundesliga,Defender,18.0
+Bundesliga,Attack,12.0
+Bundesliga,Defender,24.0
+LaLiga,Defender,3.5
+Premier League,Midfield,15.0
+Bundesliga,Defender,2.5
+Bundesliga,Defender,1.2
+LaLiga,Goalkeeper,2.0
+Bundesliga,Goalkeeper,12.0
+Bundesliga,Attack,2.5
+Bundesliga,Attack,2.5
+Bundesliga,Defender,1.8
+Bundesliga,Defender,30.0
+Premier League,Goalkeeper,0.3
+Bundesliga,Goalkeeper,4.5
+LaLiga,Defender,40.0
+Serie A,Attack,6.0
+Serie A,Midfield,1.4
+Serie A,Midfield,1.8
+Serie A,Defender,7.0
+Serie A,Attack,2.0
+Serie A,Goalkeeper,3.0
+LaLiga,Attack,6.0
+Serie A,Defender,50.0
+Serie A,Midfield,7.0
+LaLiga,Goalkeeper,0.8
+Premier League,Attack,15.0
+Serie A,Midfield,3.5
+Serie A,Attack,1.3
+Serie A,Goalkeeper,1.5
+Serie A,Defender,2.5
+Premier League,Goalkeeper,2.5
+Bundesliga,Defender,20.0
+Serie A,Midfield,25.0
+LaLiga,Defender,1.0
+Bundesliga,Attack,3.0
+Ligue 1,Defender,2.5
+Premier League,Attack,25.0
+Ligue 1,Attack,0.5
+Ligue 1,Defender,3.0
+Ligue 1,Midfield,2.5
+Bundesliga,Midfield,2.0
+Premier League,Attack,8.0
+Ligue 1,Goalkeeper,0.1
+LaLiga,Midfield,2.0
+Serie A,Midfield,7.0
+Premier League,Attack,4.0
+Serie A,Attack,5.0
+Premier League,Midfield,0.6
+Premier League,Defender,11.0
+Premier League,Midfield,6.0
+Serie A,Midfield,8.0
+Serie A,Defender,1.0
+Serie A,Defender,1.5
+Premier League,Attack,3.0
+Ligue 1,Defender,2.5
+LaLiga,Midfield,9.0
+Premier League,Defender,7.0
+LaLiga,Goalkeeper,14.0
+LaLiga,Attack,1.8
+LaLiga,Midfield,2.8
+Ligue 1,Midfield,0.25
+Premier League,Defender,7.0
+Bundesliga,Defender,3.5
+Premier League,Goalkeeper,0.15
+Ligue 1,Midfield,4.5
+Serie A,Attack,8.0
+LaLiga,Defender,1.6
+LaLiga,Attack,12.0
+LaLiga,Midfield,1.5
+LaLiga,Defender,1.6
+Bundesliga,Defender,2.5
+LaLiga,Defender,5.0
+Ligue 1,Attack,3.5
+Serie A,Midfield,4.0
+Bundesliga,Defender,32.0
+Bundesliga,Defender,14.0
+Bundesliga,Midfield,28.0
+LaLiga,Attack,1.5
+LaLiga,Attack,6.0
+LaLiga,Attack,1.2
+Bundesliga,Defender,12.0
+LaLiga,Goalkeeper,3.0
+Serie A,Midfield,1.4
+Premier League,Goalkeeper,5.0
+Serie A,Midfield,3.0
+Premier League,Midfield,3.0
+Bundesliga,Defender,2.5
+Bundesliga,Goalkeeper,0.1
+Bundesliga,Defender,4.0
+Ligue 1,Defender,18.0
+Bundesliga,Attack,12.0
+Ligue 1,Goalkeeper,9.0
+LaLiga,Defender,1.8
+LaLiga,Midfield,5.0
+Ligue 1,Midfield,2.0
+Bundesliga,Midfield,9.0
+Bundesliga,Midfield,17.0
+Bundesliga,Midfield,3.0
+Serie A,Attack,7.0
+Serie A,Attack,5.0
+Premier League,Defender,30.0
+LaLiga,Defender,2.0
+Serie A,Midfield,1.6
+Premier League,Defender,20.0
+Premier League,Defender,1.0
+Bundesliga,Defender,0.4
+Bundesliga,Defender,5.5
+Bundesliga,Attack,0.8
+Serie A,Midfield,4.5
+Ligue 1,Attack,12.0
+LaLiga,Defender,7.0
+LaLiga,Attack,20.0
+Serie A,Goalkeeper,3.5
+Ligue 1,Midfield,3.0
+Serie A,Goalkeeper,1.0
+Ligue 1,Attack,3.0
+Ligue 1,Defender,7.0
+Serie A,Defender,5.0
+Bundesliga,Defender,7.0
+Premier League,Midfield,40.0
+Serie A,Goalkeeper,14.0
+Serie A,Goalkeeper,0.2
+Premier League,Defender,5.0
+Serie A,Defender,1.1
+Serie A,Attack,2.5
+Premier League,Midfield,27.0
+Serie A,Goalkeeper,2.0
+Bundesliga,Attack,25.0
+LaLiga,Goalkeeper,5.0
+Premier League,Midfield,10.0
+Premier League,Attack,25.0
+Ligue 1,Midfield,2.5
+Bundesliga,Defender,1.5
+Serie A,Defender,1.2
+Premier League,Goalkeeper,0.3
+Bundesliga,Attack,4.5
+LaLiga,Midfield,3.2
+Serie A,Goalkeeper,0.8
+Bundesliga,Midfield,3.5
+Premier League,Midfield,12.0
+Ligue 1,Midfield,5.0
+LaLiga,Attack,1.8
+LaLiga,Defender,7.0
+LaLiga,Attack,6.0
+Serie A,Defender,0.3
+Bundesliga,Goalkeeper,1.5
+Bundesliga,Goalkeeper,4.5
+LaLiga,Goalkeeper,3.0
+Bundesliga,Attack,4.0
+Premier League,Midfield,13.0
+LaLiga,Defender,1.2
+Premier League,Midfield,35.0
+Ligue 1,Defender,3.0
+Serie A,Defender,4.0
+Premier League,Goalkeeper,5.0
+Serie A,Defender,1.7
+Premier League,Attack,9.0
+Premier League,Defender,3.5
+Serie A,Goalkeeper,0.4
+Ligue 1,Defender,8.0
+LaLiga,Defender,22.0
+Serie A,Defender,12.0
+Premier League,Attack,8.0
+Bundesliga,Goalkeeper,12.0
+Bundesliga,Midfield,3.0
+Ligue 1,Goalkeeper,4.0
+LaLiga,Defender,5.0
+Serie A,Defender,5.0
+Premier League,Defender,2.5
+LaLiga,Attack,1.5
+Premier League,Defender,4.0
+LaLiga,Defender,8.0
+LaLiga,Defender,3.0
+LaLiga,Attack,25.0
+Premier League,Defender,0.5
+Serie A,Midfield,60.0
+Premier League,Defender,15.0
+LaLiga,Attack,4.5
+Serie A,Goalkeeper,3.2
+Serie A,Defender,15.0
+Serie A,Defender,0.4
+LaLiga,Attack,3.0
+LaLiga,Defender,0.8
+Premier League,Midfield,25.0
+Serie A,Goalkeeper,5.0
+Serie A,Defender,12.0
+Bundesliga,Goalkeeper,40.0
+Premier League,Defender,60.0
+Premier League,Midfield,1.2
+Ligue 1,Defender,3.0
+Serie A,Midfield,1.7
+Premier League,Defender,20.0
+Premier League,Attack,40.0
+Premier League,Goalkeeper,28.0
+LaLiga,Attack,40.0
+LaLiga,Defender,6.0
+Premier League,Defender,25.0
+LaLiga,Midfield,7.0
+Bundesliga,Midfield,20.0
+Serie A,Midfield,4.5
+Premier League,Defender,10.0
+Premier League,Defender,2.8
+LaLiga,Goalkeeper,30.0
+Premier League,Goalkeeper,35.0
+LaLiga,Defender,1.8
+Premier League,Midfield,8.0
+Premier League,Defender,22.0
+Bundesliga,Defender,10.0
+LaLiga,Midfield,3.5
+Ligue 1,Midfield,18.0
+LaLiga,Attack,15.0
+Serie A,Midfield,25.0
+Serie A,Attack,4.0
+Bundesliga,Midfield,2.5
+Serie A,Midfield,6.0
+LaLiga,Defender,2.2
+LaLiga,Midfield,1.4
+Premier League,Midfield,18.0
+Bundesliga,Midfield,3.0
+Bundesliga,Attack,40.0
+LaLiga,Defender,1.0
+Bundesliga,Attack,10.0
+Bundesliga,Midfield,0.3
+Premier League,Defender,10.0
+Ligue 1,Attack,24.0
+Serie A,Defender,2.0
+Serie A,Defender,6.0
+Bundesliga,Midfield,2.0
+Ligue 1,Attack,7.0
+LaLiga,Goalkeeper,5.0
+Ligue 1,Defender,2.0
+LaLiga,Defender,1.5
+Serie A,Defender,9.0
+Premier League,Attack,12.0
+Serie A,Defender,17.0
+LaLiga,Defender,4.5
+LaLiga,Attack,1.0
+LaLiga,Defender,1.5
+Bundesliga,Midfield,3.5
+LaLiga,Attack,5.0
+Serie A,Defender,4.0
+LaLiga,Attack,2.0
+Premier League,Attack,20.0
+Bundesliga,Midfield,3.5
+LaLiga,Defender,0.8
+Serie A,Defender,7.0
+Ligue 1,Defender,20.0
+LaLiga,Midfield,3.5
+Ligue 1,Goalkeeper,2.0
+Serie A,Defender,7.5
+Serie A,Attack,5.0
+LaLiga,Defender,22.0
+LaLiga,Midfield,1.5
+Bundesliga,Defender,18.0
+LaLiga,Goalkeeper,8.0
+Ligue 1,Defender,5.0
+LaLiga,Goalkeeper,2.0
+Bundesliga,Attack,2.0
+Premier League,Midfield,12.0
+Serie A,Attack,15.0
+Ligue 1,Attack,3.0
+Bundesliga,Attack,12.0
+Bundesliga,Goalkeeper,5.0
+LaLiga,Goalkeeper,1.0
+Serie A,Defender,22.0
+Bundesliga,Defender,7.0
+Bundesliga,Goalkeeper,1.2
+LaLiga,Midfield,3.0
+Premier League,Defender,50.0
+LaLiga,Midfield,4.5
+Ligue 1,Defender,9.0
+Premier League,Goalkeeper,30.0
+Serie A,Midfield,9.0
+LaLiga,Defender,1.5
+LaLiga,Goalkeeper,2.5
+LaLiga,Midfield,22.0
+Ligue 1,Midfield,0.9
+Bundesliga,Attack,1.8
+Ligue 1,Midfield,15.0
+Ligue 1,Attack,100.0
+LaLiga,Midfield,2.0
+Bundesliga,Attack,3.5
+Bundesliga,Defender,1.0
+LaLiga,Defender,5.0
+LaLiga,Midfield,4.0
+Serie A,Defender,3.0
+Ligue 1,Midfield,20.0
+Bundesliga,Midfield,14.0
+Serie A,Defender,3.0
+LaLiga,Midfield,10.0
+Serie A,Goalkeeper,4.5
+Bundesliga,Midfield,6.0
+Ligue 1,Midfield,7.5
+Ligue 1,Defender,16.0
+Bundesliga,Attack,2.2
+LaLiga,Defender,22.0
+Premier League,Attack,10.0
+Bundesliga,Defender,5.0
+Ligue 1,Defender,12.0
+Premier League,Defender,4.0
+Serie A,Midfield,10.0
+Premier League,Midfield,4.2
+Premier League,Attack,5.0
+LaLiga,Midfield,60.0
+LaLiga,Midfield,1.2
+Premier League,Midfield,30.0
+Premier League,Attack,12.0
+Bundesliga,Defender,3.0
+Ligue 1,Defender,1.0
+Premier League,Goalkeeper,5.0
+Ligue 1,Defender,6.0
+LaLiga,Goalkeeper,1.2
+Premier League,Defender,8.0
+Premier League,Attack,3.5
+Bundesliga,Midfield,3.5
+LaLiga,Goalkeeper,6.0
+LaLiga,Attack,1.5
+LaLiga,Defender,2.0
+Serie A,Defender,1.8
+LaLiga,Attack,7.5
+LaLiga,Midfield,4.0
+Serie A,Attack,2.0
+Serie A,Goalkeeper,18.0
+LaLiga,Attack,5.0
+Bundesliga,Defender,15.0
+Serie A,Defender,40.0
+LaLiga,Goalkeeper,5.0
+Serie A,Goalkeeper,1.0
+Serie A,Attack,30.0
+Premier League,Attack,15.0
+Bundesliga,Attack,1.5
+Serie A,Midfield,8.5
+LaLiga,Midfield,40.0
+Premier League,Attack,55.0
+LaLiga,Defender,1.0
+Serie A,Goalkeeper,0.1
+Premier League,Attack,8.0
+LaLiga,Defender,70.0
+Premier League,Attack,8.0
+Bundesliga,Midfield,2.0
+LaLiga,Attack,40.0
+Premier League,Attack,35.0
+Serie A,Goalkeeper,4.0
+Ligue 1,Goalkeeper,2.0
+Serie A,Attack,60.0
+Serie A,Defender,80.0
+Premier League,Goalkeeper,45.0
+Serie A,Attack,15.0
+Serie A,Attack,35.0
+Serie A,Midfield,45.0
+Ligue 1,Defender,12.0
+Premier League,Midfield,75.0
+Ligue 1,Goalkeeper,8.0
+Serie A,Midfield,6.5
+Serie A,Goalkeeper,1.2
+Bundesliga,Defender,20.0
+Ligue 1,Goalkeeper,15.0
+Premier League,Defender,18.0
+Ligue 1,Defender,5.0
+Serie A,Attack,60.0
+Premier League,Attack,12.0
+LaLiga,Midfield,6.0
+Premier League,Midfield,28.0
+LaLiga,Defender,1.5
+Ligue 1,Midfield,19.0
+Premier League,Attack,18.0
+Serie A,Defender,25.0
+Serie A,Defender,3.0
+Bundesliga,Attack,0.7
+Ligue 1,Midfield,6.0
+Serie A,Defender,8.0
+Serie A,Goalkeeper,0.15
+Bundesliga,Midfield,18.0
+Premier League,Attack,30.0
+Serie A,Midfield,4.5
+Ligue 1,Attack,5.0
+Ligue 1,Midfield,10.0
+Ligue 1,Attack,4.0
+Ligue 1,Attack,3.5
+Premier League,Attack,70.0
+Serie A,Attack,25.0
+Premier League,Defender,65.0
+LaLiga,Midfield,70.0
+LaLiga,Defender,1.5
+Bundesliga,Defender,7.0
+LaLiga,Midfield,22.0
+Ligue 1,Defender,4.0
+Premier League,Defender,16.0
+Ligue 1,Goalkeeper,0.5
+Bundesliga,Defender,15.0
+Serie A,Defender,8.5
+Premier League,Midfield,32.0
+Serie A,Defender,2.5
+LaLiga,Defender,8.0
+Premier League,Attack,14.0
+Ligue 1,Defender,4.0
+Serie A,Midfield,22.0
+Premier League,Midfield,25.0
+Ligue 1,Midfield,9.0
+Premier League,Midfield,25.0
+Ligue 1,Goalkeeper,0.8
+Premier League,Midfield,30.0
+Bundesliga,Attack,35.0
+Bundesliga,Defender,1.5
+Bundesliga,Defender,4.0
+LaLiga,Attack,7.0
+Ligue 1,Midfield,25.0
+Serie A,Midfield,2.5
+Serie A,Goalkeeper,0.2
+Bundesliga,Attack,3.0
+Bundesliga,Defender,5.0
+LaLiga,Midfield,2.4
+Bundesliga,Attack,22.0
+Serie A,Midfield,2.5
+Premier League,Defender,30.0
+Bundesliga,Defender,8.0
+Serie A,Attack,15.0
+Premier League,Goalkeeper,7.0
+Serie A,Defender,3.0
+Serie A,Goalkeeper,1.2
+LaLiga,Midfield,9.0
+Serie A,Defender,2.2
+Bundesliga,Attack,1.8
+Bundesliga,Defender,2.5
+LaLiga,Attack,2.0
+Bundesliga,Midfield,5.0
+LaLiga,Attack,4.0
+Serie A,Defender,10.0
+LaLiga,Defender,7.0
+Premier League,Midfield,30.0
+LaLiga,Attack,12.0
+Premier League,Defender,5.0
+Bundesliga,Midfield,10.0
+Serie A,Goalkeeper,35.0
+LaLiga,Goalkeeper,2.0
+Bundesliga,Attack,25.0
+Premier League,Defender,5.0
+Premier League,Defender,15.0
+LaLiga,Attack,1.8
+Bundesliga,Midfield,3.0
+Ligue 1,Defender,4.0
+LaLiga,Attack,18.0
+Premier League,Midfield,10.0
+Bundesliga,Attack,15.0
+Premier League,Attack,16.0
+Premier League,Attack,15.0
+Premier League,Midfield,16.0
+Serie A,Goalkeeper,8.0
+LaLiga,Attack,3.0
+Serie A,Midfield,2.2
+Premier League,Defender,22.0
+Premier League,Goalkeeper,22.0
+Premier League,Defender,2.5
+Premier League,Defender,13.0
+Premier League,Attack,18.0
+LaLiga,Attack,1.5
+Serie A,Defender,15.0
+LaLiga,Defender,0.8
+LaLiga,Defender,15.0
+LaLiga,Midfield,6.0
+Bundesliga,Attack,4.0
+Premier League,Midfield,5.0
+LaLiga,Goalkeeper,0.5
+Bundesliga,Midfield,2.0
+Premier League,Defender,5.0
+LaLiga,Attack,4.5
+Ligue 1,Attack,2.5
+LaLiga,Attack,180.0
+LaLiga,Midfield,6.0
+Bundesliga,Midfield,12.0
+Serie A,Defender,2.5
+Bundesliga,Attack,7.0
+LaLiga,Attack,8.5
+Serie A,Attack,20.0
+Premier League,Midfield,20.0
+Ligue 1,Defender,2.5
+Ligue 1,Attack,8.0
+Serie A,Attack,65.0
+Ligue 1,Defender,10.0
+Bundesliga,Defender,2.0
+Bundesliga,Defender,70.0
+Ligue 1,Defender,2.5
+Ligue 1,Attack,14.0
+Ligue 1,Attack,2.5
+Bundesliga,Defender,1.5
+Serie A,Defender,4.5
+Serie A,Midfield,15.0
+LaLiga,Attack,9.0
+Premier League,Defender,22.0
+LaLiga,Defender,2.8
+Premier League,Defender,35.0
+Premier League,Midfield,32.0
+Bundesliga,Midfield,1.0
+Ligue 1,Goalkeeper,4.0
+Bundesliga,Goalkeeper,12.0
+Serie A,Defender,7.0
+Serie A,Defender,3.5
+Premier League,Midfield,18.0
+Serie A,Attack,18.0
+Bundesliga,Midfield,17.0
+Premier League,Attack,18.0
+Premier League,Defender,15.0
+Serie A,Attack,2.5
+LaLiga,Midfield,16.0
+Premier League,Attack,120.0
+Serie A,Defender,14.0
+Premier League,Defender,30.0
+Ligue 1,Midfield,40.0
+LaLiga,Attack,25.0
+Premier League,Midfield,6.0
+LaLiga,Defender,40.0
+Serie A,Defender,4.0
+Premier League,Goalkeeper,6.0
+Premier League,Defender,12.0
+Ligue 1,Defender,20.0
+Ligue 1,Attack,10.0
+Ligue 1,Attack,2.0
+Bundesliga,Defender,18.0
+Ligue 1,Midfield,2.0
+Ligue 1,Defender,0.8
+Serie A,Midfield,25.0
+Premier League,Midfield,27.0
+Ligue 1,Attack,1.5
+Serie A,Attack,6.0
+LaLiga,Defender,9.0
+LaLiga,Attack,13.0
+Premier League,Defender,60.0
+Premier League,Midfield,12.0
+LaLiga,Defender,2.5
+Premier League,Defender,45.0
+Premier League,Defender,28.0
+Bundesliga,Defender,12.0
+Premier League,Midfield,22.0
+Serie A,Attack,90.0
+Serie A,Attack,35.0
+Premier League,Midfield,75.0
+LaLiga,Attack,0.25
+Premier League,Midfield,3.2
+Premier League,Goalkeeper,4.0
+Premier League,Midfield,120.0
+Serie A,Defender,5.0
+LaLiga,Defender,2.5
+LaLiga,Midfield,14.0
+Serie A,Midfield,15.0
+Serie A,Defender,0.9
+Serie A,Midfield,4.0
+LaLiga,Attack,8.0
+Ligue 1,Defender,3.0
+LaLiga,Defender,4.0
+Bundesliga,Attack,18.0
+Ligue 1,Attack,6.0
+Serie A,Midfield,28.0
+Serie A,Midfield,4.0
+Serie A,Midfield,7.0
+Premier League,Defender,35.0
+LaLiga,Attack,2.5
+Ligue 1,Goalkeeper,10.0
+Bundesliga,Defender,5.0
+Ligue 1,Defender,22.0
+LaLiga,Attack,3.0
+Premier League,Defender,15.0
+Bundesliga,Defender,2.5
+LaLiga,Midfield,3.0
+Premier League,Attack,20.0
+Serie A,Attack,45.0
+Ligue 1,Defender,12.0
+Bundesliga,Defender,5.0
+Premier League,Attack,40.0
+LaLiga,Defender,15.0
+Serie A,Defender,10.0
+LaLiga,Defender,3.0
+Serie A,Attack,25.0
+Serie A,Attack,60.0
+Bundesliga,Defender,24.0
+LaLiga,Midfield,120.0
+Premier League,Defender,28.0
+Bundesliga,Defender,9.0
+Bundesliga,Defender,14.0
+Premier League,Attack,12.0
+Bundesliga,Defender,5.0
+Bundesliga,Defender,20.0
+Ligue 1,Midfield,20.0
+Premier League,Goalkeeper,2.0
+Serie A,Goalkeeper,7.5
+Bundesliga,Defender,1.8
+Serie A,Defender,30.0
+LaLiga,Defender,4.5
+Ligue 1,Defender,1.2
+Ligue 1,Defender,0.7
+Premier League,Defender,18.0
+LaLiga,Attack,180.0
+LaLiga,Midfield,8.0
+Ligue 1,Midfield,3.0
+Ligue 1,Midfield,2.0
+LaLiga,Defender,7.0
+Bundesliga,Midfield,6.0
+LaLiga,Midfield,9.0
+Serie A,Attack,3.0
+Premier League,Midfield,22.0
+Serie A,Defender,18.0
+Serie A,Midfield,6.0
+Serie A,Midfield,2.0
+Ligue 1,Midfield,10.0
+Serie A,Midfield,7.0
+LaLiga,Attack,3.5
+LaLiga,Midfield,9.0
+Premier League,Attack,28.0
+Serie A,Midfield,2.0
+Premier League,Defender,15.0
+LaLiga,Midfield,6.0
+Premier League,Goalkeeper,1.3
+Premier League,Midfield,5.0
+Serie A,Midfield,12.0
+Premier League,Midfield,12.0
+Bundesliga,Midfield,15.0
+Bundesliga,Defender,5.0
+Bundesliga,Defender,2.0
+Bundesliga,Midfield,12.0
+Ligue 1,Defender,1.2
+LaLiga,Defender,7.0
+Serie A,Defender,5.0
+Premier League,Defender,15.0
+Serie A,Defender,45.0
+Serie A,Attack,3.5
+Serie A,Midfield,3.5
+Bundesliga,Defender,13.0
+Bundesliga,Midfield,15.0
+Premier League,Attack,18.0
+Bundesliga,Goalkeeper,0.3
+Premier League,Attack,28.0
+Bundesliga,Defender,55.0
+Bundesliga,Defender,3.0
+Bundesliga,Midfield,4.0
+LaLiga,Defender,1.5
+Serie A,Goalkeeper,9.0
+Serie A,Defender,5.0
+Serie A,Goalkeeper,1.0
+LaLiga,Defender,5.0
+Bundesliga,Attack,7.0
+Premier League,Defender,6.0
+Ligue 1,Attack,17.0
+Ligue 1,Defender,1.0
+Bundesliga,Attack,6.0
+Bundesliga,Defender,4.0
+Serie A,Attack,13.0
+Bundesliga,Goalkeeper,0.15
+Premier League,Defender,6.0
+Serie A,Defender,4.0
+Serie A,Midfield,9.0
+Serie A,Defender,4.0
+Premier League,Attack,7.0
+Bundesliga,Midfield,3.5
+Premier League,Defender,55.0
+Premier League,Midfield,22.0
+Ligue 1,Attack,5.0
+Premier League,Attack,30.0
+Premier League,Midfield,18.0
+Premier League,Midfield,12.0
+Premier League,Defender,20.0
+Serie A,Defender,6.0
+Serie A,Defender,7.5
+Serie A,Attack,9.0
+Bundesliga,Midfield,2.5
+Premier League,Midfield,12.0
+Bundesliga,Defender,8.0
+Bundesliga,Attack,0.5
+LaLiga,Midfield,4.0
+Serie A,Midfield,28.0
+Premier League,Midfield,40.0
+LaLiga,Midfield,4.0
+LaLiga,Midfield,10.0
+Serie A,Midfield,20.0
+Serie A,Midfield,3.5
+Ligue 1,Midfield,2.5
+Premier League,Defender,4.0
+Serie A,Attack,13.0
+Premier League,Midfield,75.0
+Ligue 1,Defender,3.5
+Serie A,Defender,5.0
+LaLiga,Goalkeeper,1.8
+Premier League,Attack,32.0
+Ligue 1,Defender,80.0
+LaLiga,Goalkeeper,0.2
+LaLiga,Midfield,3.0
+LaLiga,Attack,30.0
+Ligue 1,Attack,3.0
+Premier League,Midfield,20.0
+Premier League,Defender,25.0
+Serie A,Midfield,20.0
+Premier League,Goalkeeper,15.0
+Bundesliga,Midfield,2.0
+Premier League,Attack,20.0
+Premier League,Defender,15.0
+Bundesliga,Defender,2.0
+Serie A,Defender,18.0
+LaLiga,Defender,60.0
+Bundesliga,Midfield,30.0
+Premier League,Attack,20.0
+Ligue 1,Midfield,20.0
+Premier League,Goalkeeper,22.0
+Premier League,Defender,13.0
+LaLiga,Defender,30.0
+LaLiga,Goalkeeper,25.0
+Premier League,Defender,25.0
+Bundesliga,Midfield,16.0
+Bundesliga,Defender,7.5
+Ligue 1,Attack,8.0
+LaLiga,Attack,30.0
+Bundesliga,Midfield,6.0
+Ligue 1,Midfield,3.0
+Bundesliga,Midfield,3.5
+Serie A,Attack,22.0
+LaLiga,Attack,35.0
+Serie A,Defender,2.5
+Premier League,Goalkeeper,0.5
+Serie A,Attack,85.0
+Premier League,Midfield,20.0
+Premier League,Midfield,150.0
+Bundesliga,Midfield,45.0
+Bundesliga,Attack,12.0
+LaLiga,Attack,10.0
+Serie A,Midfield,15.0
+Premier League,Attack,35.0
+Premier League,Midfield,15.0
+Premier League,Defender,18.0
+LaLiga,Attack,50.0
+Premier League,Attack,4.2
+LaLiga,Defender,45.0
+LaLiga,Midfield,2.0
+LaLiga,Attack,110.0
+Premier League,Midfield,2.2
+Serie A,Attack,4.0
+Serie A,Attack,0.8
+LaLiga,Defender,1.5
+Bundesliga,Midfield,5.0
+Premier League,Attack,40.0
+LaLiga,Midfield,100.0
+Premier League,Defender,12.0
+LaLiga,Attack,2.4
+Premier League,Defender,35.0
+Premier League,Defender,30.0
+Serie A,Defender,17.0
+Serie A,Attack,2.4
+Bundesliga,Defender,6.0
+Ligue 1,Midfield,10.0
+Bundesliga,Defender,7.0
+Bundesliga,Attack,1.3
+Premier League,Defender,25.0
+Ligue 1,Goalkeeper,3.0
+Premier League,Defender,15.0
+Premier League,Defender,7.5
+Bundesliga,Attack,2.0
+Serie A,Midfield,1.8
+Ligue 1,Goalkeeper,6.0
+Serie A,Attack,10.0
+LaLiga,Goalkeeper,12.0
+Premier League,Attack,200.0
+Ligue 1,Attack,28.0
+Ligue 1,Attack,0.9
+LaLiga,Attack,3.0
+Premier League,Attack,40.0
+Ligue 1,Defender,15.0
+Premier League,Defender,32.0
+Ligue 1,Midfield,28.0
+Premier League,Defender,70.0
+Premier League,Attack,8.0
+Premier League,Midfield,7.0
+Serie A,Goalkeeper,15.0
+Bundesliga,Defender,1.2
+Bundesliga,Midfield,1.8
+Serie A,Defender,7.5
+Premier League,Midfield,50.0
+LaLiga,Midfield,6.0
+Serie A,Midfield,20.0
+Premier League,Defender,10.0
+LaLiga,Defender,15.0
+Bundesliga,Attack,3.5
+Bundesliga,Defender,50.0
+Premier League,Defender,22.0
+Premier League,Midfield,10.0
+Premier League,Goalkeeper,12.0
+Ligue 1,Attack,3.0
+Premier League,Goalkeeper,0.5
+Premier League,Midfield,4.0
+Serie A,Midfield,20.0
+Premier League,Midfield,65.0
+Ligue 1,Defender,6.0
+LaLiga,Midfield,2.0
+Bundesliga,Attack,15.0
+Premier League,Defender,22.0
+Premier League,Attack,40.0
+Serie A,Midfield,3.0
+LaLiga,Midfield,1.0
+Premier League,Midfield,45.0
+Serie A,Midfield,20.0
+Serie A,Attack,18.0
+Bundesliga,Defender,2.5
+Serie A,Goalkeeper,20.0
+Bundesliga,Goalkeeper,0.75
+Premier League,Attack,130.0
+Serie A,Midfield,1.0
+Premier League,Midfield,8.0
+Premier League,Midfield,40.0
+Serie A,Defender,0.35
+Serie A,Midfield,2.2
+Serie A,Defender,28.0
+Premier League,Midfield,0.6
+Bundesliga,Midfield,5.0
+Premier League,Attack,7.0
+Premier League,Defender,35.0
+Ligue 1,Defender,0.5
+Serie A,Attack,6.0
+Premier League,Attack,70.0
+Serie A,Defender,6.0
+Premier League,Defender,75.0
+Ligue 1,Attack,0.8
+Premier League,Attack,25.0
+Serie A,Midfield,34.0
+Bundesliga,Defender,7.5
+Bundesliga,Defender,5.0
+Premier League,Defender,10.0
+LaLiga,Defender,2.5
+LaLiga,Defender,3.0
+Serie A,Midfield,7.0
+Serie A,Defender,35.0
+Premier League,Defender,4.0
+Serie A,Midfield,1.8
+Bundesliga,Attack,12.0
+Bundesliga,Midfield,12.0
+Bundesliga,Midfield,45.0
+Premier League,Attack,2.2
+Serie A,Defender,2.3
+Premier League,Attack,65.0
+Premier League,Midfield,25.0
+Bundesliga,Defender,10.0
+LaLiga,Defender,3.5
+Ligue 1,Goalkeeper,8.0
+Bundesliga,Goalkeeper,7.0
+Serie A,Attack,2.5
+Bundesliga,Midfield,10.0
+LaLiga,Defender,2.8
+Premier League,Midfield,15.0
+Ligue 1,Midfield,3.0
+Premier League,Midfield,85.0
+LaLiga,Defender,2.5
+Bundesliga,Defender,4.0
+Bundesliga,Defender,10.0
+Bundesliga,Goalkeeper,0.5
+Bundesliga,Attack,10.0
+Premier League,Attack,3.5
+Bundesliga,Midfield,4.5
+LaLiga,Attack,4.0
+Premier League,Attack,70.0
+Bundesliga,Goalkeeper,0.6
+Premier League,Goalkeeper,0.4
+Serie A,Attack,7.0
+Serie A,Attack,6.5
+LaLiga,Defender,3.0
+Premier League,Midfield,3.0
+Serie A,Midfield,7.5
+Serie A,Attack,18.0
+LaLiga,Attack,18.0
+Serie A,Defender,30.0
+Serie A,Goalkeeper,16.0
+Serie A,Attack,1.4
+Bundesliga,Defender,5.0
+Premier League,Midfield,65.0
+LaLiga,Attack,8.0
+Premier League,Defender,28.0
+Ligue 1,Attack,4.0
+Serie A,Attack,17.0
+Ligue 1,Goalkeeper,25.0
+Premier League,Defender,18.0
+Premier League,Defender,35.0
+Ligue 1,Attack,12.0
+Serie A,Midfield,40.0
+Ligue 1,Attack,1.5
+Serie A,Defender,17.0
+Serie A,Attack,0.8
+Premier League,Goalkeeper,28.0
+Premier League,Defender,3.8
+Ligue 1,Goalkeeper,1.2
+LaLiga,Midfield,5.0
+LaLiga,Goalkeeper,4.0
+LaLiga,Defender,20.0
+LaLiga,Midfield,2.5
+Serie A,Midfield,15.0
+Premier League,Midfield,45.0
+Ligue 1,Attack,25.0
+Bundesliga,Midfield,17.0
+Bundesliga,Midfield,35.0
+Serie A,Defender,7.5
+Premier League,Attack,13.0
+Ligue 1,Midfield,7.0
+Serie A,Midfield,22.0
+Premier League,Midfield,4.0
+Premier League,Goalkeeper,2.0
+Premier League,Defender,25.0
+Premier League,Defender,22.0
+Serie A,Attack,28.0
+Bundesliga,Defender,0.6
+Serie A,Midfield,23.0
+Premier League,Attack,48.0
+Serie A,Midfield,18.0
+Bundesliga,Midfield,0.8
+Bundesliga,Attack,4.5
+Serie A,Goalkeeper,3.0
+Bundesliga,Attack,5.0
+Premier League,Defender,50.0
+Premier League,Attack,22.0
+Premier League,Attack,20.0
+Ligue 1,Midfield,7.0
+Premier League,Attack,22.0
+Ligue 1,Defender,20.0
+Premier League,Midfield,28.0
+Serie A,Midfield,1.3
+Premier League,Defender,28.0
+Premier League,Attack,7.0
+Premier League,Defender,70.0
+Premier League,Midfield,30.0
+Ligue 1,Midfield,3.5
+Premier League,Defender,22.0
+Premier League,Midfield,90.0
+Ligue 1,Attack,5.0
+Ligue 1,Attack,10.0
+Premier League,Midfield,65.0
+Serie A,Defender,20.0
+LaLiga,Defender,70.0
+Bundesliga,Attack,70.0
+Premier League,Defender,50.0
+LaLiga,Defender,15.0
+Premier League,Defender,3.5
+Ligue 1,Defender,1.5
+Premier League,Goalkeeper,3.0
+Bundesliga,Midfield,3.0
+Premier League,Attack,1.1
+Bundesliga,Defender,32.0
+Premier League,Defender,8.0
+Premier League,Defender,38.0
+LaLiga,Defender,18.0
+Premier League,Defender,5.0
+Premier League,Defender,25.0
+Premier League,Midfield,42.0
+Ligue 1,Defender,10.0
+LaLiga,Midfield,6.0
+Ligue 1,Defender,3.0
+LaLiga,Attack,35.0
+Bundesliga,Goalkeeper,8.0
+Premier League,Attack,65.0
+Premier League,Attack,60.0
+Ligue 1,Midfield,110.0
+Serie A,Attack,30.0
+Serie A,Attack,6.0
+Premier League,Attack,25.0
+Premier League,Midfield,35.0
+LaLiga,Defender,10.0
+Serie A,Defender,2.0
+Premier League,Goalkeeper,2.5
+Serie A,Midfield,1.0
+Serie A,Defender,12.0
+Serie A,Defender,3.5
+Ligue 1,Midfield,6.0
+LaLiga,Goalkeeper,1.5
+Bundesliga,Goalkeeper,0.7
+Serie A,Goalkeeper,3.8
+Premier League,Defender,27.0
+Bundesliga,Goalkeeper,3.0
+Premier League,Attack,18.0
+Premier League,Defender,4.0
+LaLiga,Midfield,10.0
+LaLiga,Defender,2.0
+Premier League,Defender,90.0
+Serie A,Midfield,15.0
+Bundesliga,Attack,0.9
+Bundesliga,Attack,60.0
+Ligue 1,Defender,7.0
+Serie A,Defender,13.0
+Serie A,Attack,20.0
+Premier League,Midfield,16.0
+LaLiga,Defender,10.0
+LaLiga,Attack,6.0
+Premier League,Attack,28.0
+LaLiga,Defender,4.0
+Premier League,Attack,4.0
+Ligue 1,Attack,90.0
+Premier League,Goalkeeper,28.0
+LaLiga,Midfield,10.0
+Premier League,Defender,50.0
+Serie A,Defender,25.0
+Bundesliga,Midfield,18.0
+Bundesliga,Defender,25.0
+Premier League,Defender,1.8
+Premier League,Defender,17.0
+Premier League,Attack,60.0
+Premier League,Midfield,70.0
+Premier League,Midfield,35.0
+Ligue 1,Attack,22.0
+Bundesliga,Midfield,8.0
+Serie A,Midfield,15.0
+Serie A,Midfield,7.0
+Premier League,Goalkeeper,25.0
+Premier League,Defender,40.0
+Premier League,Attack,50.0
+Serie A,Midfield,22.0
+Serie A,Defender,8.0
+Bundesliga,Defender,7.0
+Bundesliga,Midfield,6.0
+Premier League,Attack,30.0
+Premier League,Midfield,25.0
+LaLiga,Defender,0.7
+Bundesliga,Attack,28.0
+LaLiga,Attack,3.0
+LaLiga,Midfield,4.0
+Bundesliga,Midfield,8.0
+Bundesliga,Defender,3.5
+Serie A,Midfield,2.5
+Ligue 1,Attack,1.2
+Serie A,Defender,20.0
+LaLiga,Midfield,2.4
+Bundesliga,Attack,22.0
+Premier League,Defender,23.0
+Serie A,Midfield,7.5
+Serie A,Defender,35.0
+LaLiga,Midfield,4.0
+LaLiga,Defender,8.0
+Premier League,Attack,45.0
+Bundesliga,Attack,25.0
+LaLiga,Attack,5.0
+Bundesliga,Goalkeeper,0.1
+Serie A,Defender,3.0
+Premier League,Midfield,75.0
+LaLiga,Defender,4.0
+Serie A,Attack,6.0
+Premier League,Defender,25.0
+Premier League,Attack,25.0
+Serie A,Attack,6.0
+LaLiga,Defender,25.0
+Serie A,Midfield,1.8
+Premier League,Defender,6.0
+Bundesliga,Attack,0.8
+Ligue 1,Goalkeeper,0.25
+Ligue 1,Attack,2.5
+Ligue 1,Goalkeeper,0.4
+Premier League,Defender,22.0
+Serie A,Defender,17.0
+LaLiga,Goalkeeper,2.0
+LaLiga,Midfield,2.0
+Serie A,Midfield,28.0
+Bundesliga,Goalkeeper,20.0
+LaLiga,Defender,18.0
+Serie A,Goalkeeper,0.7
+Serie A,Midfield,15.0
+Bundesliga,Midfield,1.5
+Bundesliga,Attack,0.5
+Serie A,Midfield,2.0
+Ligue 1,Midfield,1.8
+Ligue 1,Attack,3.0
+Ligue 1,Defender,10.0
+Premier League,Attack,20.0
+Ligue 1,Attack,50.0
+Serie A,Defender,10.0
+Bundesliga,Attack,15.0
+LaLiga,Defender,3.0
+Serie A,Attack,35.0
+Premier League,Midfield,85.0
+Serie A,Goalkeeper,0.1
+Serie A,Defender,15.0
+Ligue 1,Midfield,6.0
+Bundesliga,Midfield,4.0
+Premier League,Attack,50.0
+LaLiga,Attack,12.0
+Bundesliga,Midfield,22.0
+Serie A,Defender,15.0
+Premier League,Attack,35.0
+LaLiga,Midfield,0.3
+Serie A,Goalkeeper,0.05
+Serie A,Attack,9.0
+Serie A,Attack,12.0
+Ligue 1,Midfield,3.5
+Premier League,Attack,32.0
+LaLiga,Defender,1.4
+Ligue 1,Defender,5.0
+Serie A,Midfield,4.5
+Ligue 1,Midfield,1.2
+Ligue 1,Defender,0.6
+Bundesliga,Defender,10.0
+Bundesliga,Defender,2.5
+Serie A,Midfield,7.0
+Premier League,Attack,32.0
+Premier League,Midfield,10.0
+Premier League,Defender,28.0
+LaLiga,Defender,20.0
+LaLiga,Goalkeeper,0.3
+Premier League,Goalkeeper,20.0
+Premier League,Defender,2.5
+Premier League,Midfield,15.0
+Premier League,Attack,55.0
+Serie A,Goalkeeper,7.0
+Serie A,Midfield,1.2
+Bundesliga,Attack,1.8
+Serie A,Attack,3.0
+LaLiga,Defender,1.5
+Serie A,Defender,0.75
+Premier League,Attack,1.5
+LaLiga,Goalkeeper,0.8
+Serie A,Defender,9.5
+LaLiga,Attack,40.0
+LaLiga,Attack,5.0
+Ligue 1,Defender,3.5
+Ligue 1,Goalkeeper,0.3
+Premier League,Attack,9.0
+LaLiga,Midfield,5.0
+Serie A,Attack,4.8
+Serie A,Midfield,15.0
+Ligue 1,Attack,35.0
+Bundesliga,Attack,7.0
+Ligue 1,Attack,6.0
+Bundesliga,Attack,15.0
+LaLiga,Midfield,7.0
+Serie A,Midfield,1.8
+Serie A,Attack,40.0
+Bundesliga,Attack,1.5
+Premier League,Defender,40.0
+Ligue 1,Midfield,15.0
+Serie A,Midfield,2.5
+LaLiga,Midfield,18.0
+LaLiga,Defender,3.5
+Serie A,Midfield,6.0
+Premier League,Defender,40.0
+Ligue 1,Midfield,25.0
+Serie A,Defender,8.5
+Premier League,Defender,55.0
+Ligue 1,Attack,4.0
+Ligue 1,Defender,12.0
+Premier League,Defender,1.4
+Premier League,Midfield,14.0
+Ligue 1,Attack,28.0
+LaLiga,Defender,7.5
+LaLiga,Midfield,1.2
+Ligue 1,Midfield,12.0
+LaLiga,Goalkeeper,30.0
+LaLiga,Goalkeeper,5.0
+LaLiga,Attack,6.0
+Ligue 1,Defender,10.0
+Serie A,Midfield,6.0
+Premier League,Defender,14.0
+Bundesliga,Defender,35.0
+Serie A,Midfield,8.0
+Premier League,Goalkeeper,35.0
+Bundesliga,Attack,25.0
+Ligue 1,Attack,22.0
+Premier League,Midfield,30.0
+Ligue 1,Defender,3.0
+Serie A,Midfield,0.45
+Serie A,Midfield,3.5
+Bundesliga,Attack,130.0
+Premier League,Goalkeeper,18.0
+Premier League,Midfield,80.0
+Serie A,Defender,6.0
+Premier League,Midfield,60.0
+Premier League,Defender,2.2
+Premier League,Attack,30.0
+LaLiga,Defender,5.0
+Premier League,Midfield,120.0
+Serie A,Defender,4.0
+Premier League,Defender,25.0
+Serie A,Goalkeeper,2.5
+Premier League,Midfield,35.0
+Ligue 1,Attack,5.0
+Ligue 1,Attack,0.8
+LaLiga,Midfield,1.2
+Bundesliga,Attack,1.5
+Ligue 1,Attack,1.2
+Bundesliga,Defender,22.0
+LaLiga,Midfield,6.0
+Bundesliga,Defender,7.0
+Ligue 1,Attack,10.0
+Serie A,Midfield,30.0
+Premier League,Attack,10.0
+Ligue 1,Midfield,4.5
+Serie A,Defender,1.2
+LaLiga,Midfield,40.0
+Serie A,Defender,2.5
+Serie A,Defender,45.0
+Serie A,Midfield,14.0
+Premier League,Attack,22.0
+Premier League,Attack,25.0
+LaLiga,Attack,16.0
+Bundesliga,Attack,1.0
+Serie A,Defender,28.0
+Ligue 1,Defender,20.0
+LaLiga,Attack,100.0
+LaLiga,Attack,20.0
+Premier League,Defender,35.0
+Premier League,Defender,40.0
+Bundesliga,Attack,30.0
+Ligue 1,Defender,0.5
+Premier League,Defender,25.0
+Bundesliga,Defender,22.0
+Premier League,Midfield,1.5
+Bundesliga,Midfield,3.5
+Ligue 1,Midfield,15.0
+Serie A,Attack,10.0
+Bundesliga,Midfield,130.0
+LaLiga,Defender,5.0
+Ligue 1,Attack,10.0
+Premier League,Defender,7.0
+Bundesliga,Midfield,4.0
+Ligue 1,Defender,1.5
+Serie A,Midfield,10.0
+LaLiga,Midfield,160.0
+Serie A,Midfield,0.3
+Serie A,Midfield,6.0
+Premier League,Attack,50.0
+Premier League,Midfield,23.0
+Premier League,Attack,65.0
+Serie A,Defender,3.5
+LaLiga,Defender,1.5
+Bundesliga,Attack,6.0
+Premier League,Attack,20.0
+Premier League,Goalkeeper,15.0
+Premier League,Goalkeeper,15.0
+Serie A,Defender,28.0
+Bundesliga,Attack,25.0
+Ligue 1,Midfield,7.0
+Serie A,Defender,26.0
+Premier League,Attack,2.0
+Serie A,Attack,14.0
+Serie A,Defender,0.5
+Bundesliga,Defender,0.45
+Serie A,Defender,8.0
+LaLiga,Defender,0.4
+Ligue 1,Midfield,0.4
+Serie A,Defender,3.5
+LaLiga,Defender,22.0
+Premier League,Defender,28.0
+LaLiga,Defender,0.2
+Bundesliga,Defender,5.5
+Bundesliga,Midfield,5.0
+Serie A,Defender,2.0
+Ligue 1,Midfield,3.0
+LaLiga,Midfield,10.0
+Serie A,Attack,4.5
+Premier League,Attack,20.0
+LaLiga,Defender,10.0
+Bundesliga,Attack,7.0
+Bundesliga,Midfield,7.5
+Bundesliga,Defender,18.0
+Ligue 1,Defender,15.0
+Premier League,Midfield,110.0
+LaLiga,Attack,7.5
+Bundesliga,Defender,8.0
+Serie A,Attack,10.0
+Serie A,Attack,2.8
+Serie A,Attack,2.8
+Bundesliga,Midfield,1.5
+Premier League,Defender,38.0
+LaLiga,Attack,30.0
+Serie A,Goalkeeper,0.15
+Premier League,Defender,23.0
+Bundesliga,Attack,7.0
+LaLiga,Goalkeeper,0.1
+Premier League,Defender,25.0
+LaLiga,Attack,10.0
+Premier League,Midfield,50.0
+Premier League,Midfield,9.0
+Premier League,Attack,15.0
+Bundesliga,Goalkeeper,2.0
+Serie A,Midfield,40.0
+Serie A,Midfield,32.0
+Premier League,Midfield,16.0
+Premier League,Attack,3.0
+LaLiga,Midfield,5.0
+Bundesliga,Goalkeeper,2.0
+Bundesliga,Attack,3.0
+Serie A,Attack,45.0
+Premier League,Attack,2.0
+Premier League,Attack,7.0
+Premier League,Defender,7.0
+Premier League,Defender,4.8
+Premier League,Midfield,2.0
+Bundesliga,Attack,3.0
+Bundesliga,Midfield,1.5
+Serie A,Midfield,4.0
+Premier League,Defender,50.0
+Premier League,Midfield,0.25
+Premier League,Midfield,3.5
+Bundesliga,Defender,2.0
+Ligue 1,Defender,75.0
+Bundesliga,Attack,15.0
+LaLiga,Attack,20.0
+LaLiga,Defender,15.0
+Premier League,Midfield,3.0
+Ligue 1,Defender,0.6
+LaLiga,Goalkeeper,0.8
+LaLiga,Midfield,3.0
+LaLiga,Attack,15.0
+Bundesliga,Defender,2.0
+Serie A,Defender,30.0
+Bundesliga,Defender,45.0
+Ligue 1,Midfield,7.0
+LaLiga,Goalkeeper,2.0
+LaLiga,Defender,8.0
+LaLiga,Attack,2.5
+Ligue 1,Attack,6.0
+LaLiga,Attack,1.5
+Bundesliga,Defender,7.0
+Bundesliga,Goalkeeper,10.0
+Ligue 1,Midfield,4.0
+Premier League,Defender,35.0
+Bundesliga,Defender,4.0
+Ligue 1,Goalkeeper,0.1
+Premier League,Midfield,0.9
+Bundesliga,Defender,3.0
+Ligue 1,Defender,7.0
+Serie A,Midfield,14.0
+LaLiga,Attack,8.0
+LaLiga,Defender,3.0
+Premier League,Attack,45.0
+Bundesliga,Defender,2.2
+Ligue 1,Midfield,10.0
+Premier League,Defender,30.0
+Serie A,Midfield,50.0
+LaLiga,Attack,2.5
+LaLiga,Goalkeeper,5.0
+LaLiga,Midfield,15.0
+Serie A,Defender,1.5
+LaLiga,Midfield,5.0
+LaLiga,Goalkeeper,0.6
+LaLiga,Midfield,1.2
+Premier League,Attack,65.0
+Serie A,Attack,10.0
+Bundesliga,Midfield,20.0
+Premier League,Attack,2.5
+LaLiga,Defender,1.0
+Premier League,Attack,50.0
+Premier League,Attack,18.0
+LaLiga,Attack,16.0
+Premier League,Midfield,30.0
+LaLiga,Goalkeeper,0.3
+LaLiga,Attack,0.6
+LaLiga,Attack,0.8
+Bundesliga,Attack,3.5
+LaLiga,Attack,3.0
+Serie A,Defender,4.5
+LaLiga,Attack,15.0
+Ligue 1,Defender,3.0
+Bundesliga,Defender,40.0
+LaLiga,Attack,0.5
+Serie A,Defender,0.15
+Bundesliga,Attack,3.0
+Serie A,Defender,4.0
+Premier League,Defender,4.0
+Serie A,Midfield,10.0
+Premier League,Midfield,20.0
+LaLiga,Midfield,9.0
+LaLiga,Midfield,8.0
+Bundesliga,Defender,6.0
+LaLiga,Defender,3.0
+LaLiga,Defender,60.0
+LaLiga,Midfield,2.5
+LaLiga,Midfield,30.0
+Ligue 1,Midfield,4.0
+LaLiga,Attack,8.0
+Ligue 1,Defender,7.0
+LaLiga,Attack,3.5
+LaLiga,Attack,6.0
+LaLiga,Midfield,50.0
+Bundesliga,Defender,0.4
+Serie A,Midfield,10.0
+Bundesliga,Midfield,25.0
+Serie A,Midfield,2.8
+Premier League,Midfield,15.0
+Serie A,Defender,4.5
+Serie A,Midfield,0.5
+Serie A,Defender,22.0
+Premier League,Midfield,12.0
+Bundesliga,Attack,6.0
+Premier League,Goalkeeper,6.0
+Ligue 1,Defender,7.0
+Premier League,Midfield,15.0
+LaLiga,Midfield,40.0
+Serie A,Defender,0.3
+Premier League,Defender,35.0
+Ligue 1,Defender,2.5
+Premier League,Goalkeeper,0.6
+Serie A,Attack,2.7
+Ligue 1,Defender,8.0
+Premier League,Defender,1.5
+Serie A,Attack,25.0
+Premier League,Midfield,85.0
+Ligue 1,Midfield,5.0
+Bundesliga,Defender,3.0
+Ligue 1,Defender,0.6
+LaLiga,Midfield,10.0
+Serie A,Attack,1.5
+Serie A,Midfield,5.0
+Ligue 1,Attack,1.0
+Ligue 1,Midfield,22.0
+LaLiga,Defender,0.25
+Ligue 1,Attack,14.0
+Bundesliga,Midfield,0.9
+Premier League,Defender,20.0
+Bundesliga,Midfield,30.0
+Ligue 1,Midfield,18.0
+Serie A,Defender,1.3
+Premier League,Attack,45.0
+Premier League,Goalkeeper,3.5
+Serie A,Midfield,1.3
+Bundesliga,Attack,12.0
+LaLiga,Midfield,15.0
+LaLiga,Defender,4.5
+Ligue 1,Midfield,2.0
+Ligue 1,Attack,1.5
+Ligue 1,Attack,22.0
+Ligue 1,Defender,50.0
+Bundesliga,Midfield,25.0
+Ligue 1,Defender,7.0
+Serie A,Midfield,6.0
+Ligue 1,Midfield,9.0
+Ligue 1,Attack,12.0
+Ligue 1,Attack,20.0
+Serie A,Goalkeeper,0.15
+Premier League,Defender,50.0
+LaLiga,Attack,12.0
+LaLiga,Defender,3.5
+Ligue 1,Defender,10.0
+Ligue 1,Midfield,20.0
+Premier League,Defender,45.0
+LaLiga,Defender,5.0
+Ligue 1,Defender,70.0
+Premier League,Attack,25.0
+Premier League,Defender,4.5
+Ligue 1,Midfield,5.0
+LaLiga,Defender,12.0
+Premier League,Midfield,0.5
+Serie A,Attack,8.0
+Bundesliga,Midfield,12.0
+Bundesliga,Midfield,0.65
+LaLiga,Attack,7.5
+Serie A,Defender,6.0
+Ligue 1,Goalkeeper,0.4
+Premier League,Midfield,12.0
+Premier League,Midfield,30.0
+Premier League,Midfield,8.0
+Ligue 1,Midfield,5.0
+LaLiga,Midfield,0.4
+LaLiga,Attack,1.4
+Serie A,Midfield,30.0
+Serie A,Midfield,25.0
+Bundesliga,Attack,15.0
+Serie A,Attack,25.0
+Bundesliga,Defender,25.0
+Ligue 1,Midfield,12.0
+Ligue 1,Midfield,110.0
+Premier League,Midfield,3.5
+Ligue 1,Attack,12.0
+Premier League,Defender,32.0
+Premier League,Attack,40.0
+Premier League,Attack,2.0
+Ligue 1,Midfield,5.0
+Serie A,Attack,0.5
+Premier League,Defender,14.0
+Serie A,Defender,3.0
+Premier League,Midfield,0.35
+Ligue 1,Defender,8.0
+Serie A,Attack,2.5
+Bundesliga,Attack,0.5
+LaLiga,Defender,15.0
+LaLiga,Defender,10.0
+Bundesliga,Midfield,4.0
+Serie A,Defender,1.2
+Premier League,Attack,5.5
+Premier League,Midfield,6.0
+Bundesliga,Defender,2.5
+LaLiga,Midfield,80.0
+Bundesliga,Goalkeeper,0.2
+Premier League,Attack,15.0
+Bundesliga,Defender,15.0
+Bundesliga,Midfield,0.3
+Serie A,Defender,9.0
+LaLiga,Attack,18.0
+Premier League,Midfield,110.0
+Ligue 1,Midfield,8.0
+LaLiga,Midfield,25.0
+Premier League,Defender,12.0
+Ligue 1,Defender,9.0
+Serie A,Midfield,23.0
+Serie A,Midfield,6.0
+Serie A,Defender,0.3
+Ligue 1,Defender,1.8
+Bundesliga,Defender,35.0
+LaLiga,Defender,2.0
+Bundesliga,Midfield,9.0
+Bundesliga,Attack,0.4
+Ligue 1,Goalkeeper,0.15
+Bundesliga,Defender,4.0
+Premier League,Attack,1.5
+Premier League,Midfield,12.0
+Bundesliga,Midfield,8.0
+Premier League,Midfield,0.25
+Serie A,Defender,4.5
+Premier League,Defender,6.0
+Bundesliga,Midfield,28.0
+Premier League,Defender,1.8
+Premier League,Defender,35.0
+Bundesliga,Attack,5.0
+Serie A,Defender,8.0
+Ligue 1,Defender,4.0
+Serie A,Midfield,0.175
+Ligue 1,Attack,0.8
+Serie A,Midfield,0.2
+LaLiga,Defender,0.7
+LaLiga,Attack,0.8
+Premier League,Goalkeeper,0.3
+LaLiga,Attack,0.2
+LaLiga,Midfield,3.0
+Bundesliga,Attack,12.0
+LaLiga,Defender,15.0
+Serie A,Midfield,12.0
+Premier League,Defender,15.0
+Serie A,Defender,0.075
+Ligue 1,Attack,70.0
+Serie A,Midfield,0.075
+Ligue 1,Defender,2.5
+LaLiga,Attack,60.0
+LaLiga,Defender,1.5
+LaLiga,Attack,1.5
+Premier League,Attack,85.0
+Serie A,Defender,10.0
+LaLiga,Attack,15.0
+Serie A,Goalkeeper,0.1
+LaLiga,Attack,1.5
+LaLiga,Midfield,2.0
+LaLiga,Attack,1.5
+Premier League,Attack,40.0
+LaLiga,Attack,2.5
+Bundesliga,Midfield,5.0
+Premier League,Defender,16.0
+LaLiga,Defender,12.0
+Bundesliga,Defender,12.0
+Serie A,Midfield,9.0
+Ligue 1,Defender,18.0
+Bundesliga,Defender,3.0
+Premier League,Midfield,25.0
+LaLiga,Goalkeeper,6.0
+Serie A,Goalkeeper,0.075
+Serie A,Attack,10.0
+Premier League,Defender,10.0
+Ligue 1,Defender,1.5
+Premier League,Midfield,25.0
+LaLiga,Attack,1.5
+Ligue 1,Attack,0.4
+Bundesliga,Attack,1.3
+Bundesliga,Goalkeeper,0.6
+Premier League,Attack,10.0
+LaLiga,Midfield,3.0
+Bundesliga,Attack,1.8
+Bundesliga,Defender,3.0
+Serie A,Midfield,4.0
+Ligue 1,Attack,3.0
+LaLiga,Attack,20.0
+Premier League,Midfield,0.5
+Premier League,Goalkeeper,13.0
+Bundesliga,Attack,2.5
+Ligue 1,Goalkeeper,0.05
+Premier League,Midfield,5.0
+Serie A,Defender,2.0
+LaLiga,Attack,28.0
+Bundesliga,Defender,1.5
+Bundesliga,Midfield,0.175
+Bundesliga,Defender,28.0
+Premier League,Defender,40.0
+Premier League,Defender,25.0
+Premier League,Goalkeeper,0.3
+Serie A,Defender,0.9
+LaLiga,Attack,30.0
+LaLiga,Defender,12.0
+Premier League,Midfield,35.0
+Premier League,Attack,20.0
+Premier League,Attack,25.0
+Ligue 1,Attack,2.0
+LaLiga,Defender,2.0
+Premier League,Attack,0.05
+Premier League,Goalkeeper,0.8
+Premier League,Midfield,30.0
+Premier League,Defender,4.0
+LaLiga,Defender,5.0
+LaLiga,Attack,40.0
+Premier League,Attack,1.7
+Serie A,Midfield,3.0
+Premier League,Attack,22.0
+Ligue 1,Attack,30.0
+Ligue 1,Midfield,5.0
+Premier League,Defender,40.0
+Ligue 1,Midfield,0.1
+Premier League,Attack,22.0
+Bundesliga,Defender,1.0
+Ligue 1,Goalkeeper,10.0
+Premier League,Attack,45.0
+Ligue 1,Attack,4.0
+Premier League,Midfield,40.0
+Ligue 1,Defender,1.5
+Premier League,Midfield,60.0
+Bundesliga,Midfield,5.0
+Bundesliga,Defender,1.0
+Bundesliga,Attack,0.4
+Ligue 1,Midfield,8.0
+Premier League,Midfield,17.0
+Ligue 1,Attack,45.0
+Ligue 1,Goalkeeper,0.1
+Ligue 1,Attack,7.0
+Serie A,Attack,18.0
+Serie A,Defender,23.0
+Premier League,Defender,8.0
+Serie A,Midfield,4.5
+Bundesliga,Attack,32.0
+Premier League,Midfield,8.0
+Serie A,Attack,20.0
+Premier League,Midfield,12.0
+Premier League,Midfield,15.0
+Serie A,Attack,4.0
+Serie A,Attack,2.5
+Ligue 1,Midfield,5.0
+Premier League,Defender,35.0
+Ligue 1,Attack,3.5
+LaLiga,Attack,5.0
+Ligue 1,Midfield,2.0
+LaLiga,Defender,6.0
+LaLiga,Midfield,1.5
+Ligue 1,Defender,10.0
+Ligue 1,Midfield,0.1
+Ligue 1,Defender,1.0
+LaLiga,Midfield,60.0
+Ligue 1,Attack,4.0
+Bundesliga,Attack,45.0
+Bundesliga,Midfield,12.0
+Serie A,Midfield,5.0
+LaLiga,Defender,4.0
+LaLiga,Midfield,4.0
+LaLiga,Midfield,3.0
+Ligue 1,Defender,18.0
+Bundesliga,Defender,7.0
+Ligue 1,Attack,5.0
+Bundesliga,Defender,15.0
+Ligue 1,Defender,20.0
+Bundesliga,Midfield,7.0
+Bundesliga,Midfield,1.0
+LaLiga,Attack,10.0
+Bundesliga,Midfield,65.0
+Ligue 1,Defender,2.0
+Bundesliga,Attack,12.0
+Bundesliga,Midfield,25.0
+Bundesliga,Defender,10.0
+Ligue 1,Defender,6.0
+Ligue 1,Defender,0.5
+Serie A,Midfield,5.5
+Premier League,Midfield,28.0
+Premier League,Attack,30.0
+Premier League,Attack,0.25
+Ligue 1,Midfield,8.0
+LaLiga,Attack,0.35
+Ligue 1,Defender,1.5
+LaLiga,Defender,25.0
+Serie A,Defender,2.0
+Ligue 1,Defender,12.0
+Ligue 1,Defender,8.0
+Bundesliga,Goalkeeper,0.5
+Ligue 1,Defender,4.0
+Bundesliga,Attack,24.0
+Ligue 1,Midfield,0.1
+Ligue 1,Attack,4.0
+Ligue 1,Midfield,0.6
+Bundesliga,Midfield,2.0
+Ligue 1,Midfield,50.0
+Bundesliga,Attack,7.0
+Ligue 1,Attack,1.0
+Bundesliga,Defender,6.0
+Bundesliga,Attack,24.0
+Ligue 1,Attack,2.5
+LaLiga,Defender,60.0
+Premier League,Attack,45.0
+Serie A,Attack,4.5
+Serie A,Midfield,12.0
+Serie A,Defender,0.175
+Bundesliga,Defender,6.0
+Serie A,Goalkeeper,0.15
+Ligue 1,Midfield,2.5
+Ligue 1,Defender,12.0
+Bundesliga,Midfield,45.0
+Premier League,Midfield,1.0
+Premier League,Attack,5.0
+Serie A,Defender,2.5
+Ligue 1,Defender,10.0
+Ligue 1,Defender,1.0
+LaLiga,Defender,1.0
+Bundesliga,Attack,1.0
+Bundesliga,Attack,2.0
+Premier League,Midfield,40.0
+Bundesliga,Attack,0.7
+LaLiga,Defender,15.0
+Ligue 1,Attack,4.0
+Bundesliga,Midfield,40.0
+Premier League,Attack,35.0
+Premier League,Defender,25.0
+Ligue 1,Defender,0.05
+LaLiga,Defender,10.0
+Bundesliga,Defender,0.4
+Ligue 1,Defender,0.6
+Bundesliga,Defender,2.0
+Ligue 1,Defender,3.0
+Ligue 1,Goalkeeper,1.0
+LaLiga,Goalkeeper,0.2
+LaLiga,Defender,0.1
+LaLiga,Defender,0.25
+LaLiga,Midfield,3.0
+LaLiga,Attack,0.9
+LaLiga,Midfield,6.0
+LaLiga,Midfield,20.0
+Serie A,Defender,1.5
+Serie A,Attack,7.5
+Ligue 1,Midfield,0.8
+Premier League,Defender,7.0
+Premier League,Defender,0.8
+LaLiga,Attack,2.0
+LaLiga,Defender,4.0
+Serie A,Attack,75.0
+Bundesliga,Midfield,7.5
+Premier League,Defender,3.0
+Ligue 1,Midfield,13.0
+Serie A,Attack,12.0
+Serie A,Defender,2.0
+Bundesliga,Midfield,15.0
+Premier League,Midfield,30.0
+Serie A,Midfield,15.0
+Premier League,Defender,2.2
+Premier League,Midfield,0.2
+Serie A,Defender,5.0
+LaLiga,Midfield,45.0
+LaLiga,Defender,4.0
+Premier League,Defender,6.0
+Premier League,Attack,0.6
+Bundesliga,Defender,1.0
+Serie A,Defender,7.0
+Premier League,Midfield,7.0
+Bundesliga,Midfield,18.0
+Premier League,Midfield,1.0
+Premier League,Midfield,40.0
+Bundesliga,Attack,5.0
+Premier League,Attack,30.0
+Ligue 1,Goalkeeper,0.05
+Premier League,Midfield,22.0
+Ligue 1,Defender,20.0
+Premier League,Midfield,0.275
+Bundesliga,Defender,5.0
+Serie A,Attack,10.0
+Serie A,Midfield,6.0
+Premier League,Midfield,32.0
+Serie A,Defender,2.5
+Premier League,Attack,3.0
+Premier League,Midfield,32.0
+Bundesliga,Attack,2.0
+Bundesliga,Defender,2.5
+Ligue 1,Defender,0.8
+Bundesliga,Defender,3.0
+Serie A,Defender,1.0
+Premier League,Attack,0.15
+LaLiga,Defender,10.0
+Serie A,Defender,2.5
+Ligue 1,Midfield,40.0
+Premier League,Defender,40.0
+Ligue 1,Defender,4.0
+Bundesliga,Defender,40.0
+LaLiga,Midfield,9.0
+LaLiga,Attack,1.5
+Bundesliga,Attack,32.0
+LaLiga,Attack,5.0
+Serie A,Defender,1.0
+Serie A,Defender,5.0
+Premier League,Defender,1.0
+Premier League,Attack,30.0
+Premier League,Defender,0.3
+Serie A,Midfield,8.0
+Ligue 1,Defender,0.25
+Premier League,Attack,7.0
+Ligue 1,Attack,9.0
+Ligue 1,Midfield,40.0
+Ligue 1,Midfield,0.5
+Premier League,Defender,35.0
+Bundesliga,Midfield,0.6
+LaLiga,Attack,0.25
+Premier League,Defender,4.5
+Bundesliga,Midfield,0.3
+LaLiga,Midfield,1.5
+Premier League,Defender,25.0
+Ligue 1,Midfield,3.5
+Ligue 1,Goalkeeper,20.0
+Ligue 1,Attack,90.0
+Serie A,Attack,5.0
+Ligue 1,Attack,1.8
+Ligue 1,Attack,1.5
+Ligue 1,Midfield,30.0
+Bundesliga,Defender,12.0
+LaLiga,Attack,0.75
+Serie A,Midfield,14.0
+Premier League,Attack,1.0
+Premier League,Defender,8.0
+Premier League,Midfield,6.0
+Premier League,Midfield,20.0
+Bundesliga,Attack,7.0
+Premier League,Defender,55.0
+Bundesliga,Defender,15.0
+Bundesliga,Defender,25.0
+Serie A,Midfield,8.0
+Bundesliga,Goalkeeper,1.5
+Ligue 1,Midfield,28.0
+Premier League,Attack,30.0
+Ligue 1,Defender,0.2
+Bundesliga,Midfield,30.0
+Premier League,Defender,2.0
+Serie A,Attack,1.0
+Serie A,Attack,35.0
+Ligue 1,Midfield,15.0
+Bundesliga,Midfield,40.0
+Premier League,Defender,0.3
+Ligue 1,Attack,8.0
+Bundesliga,Defender,0.15
+Serie A,Attack,0.3
+Serie A,Attack,7.0
+LaLiga,Attack,1.0
+Premier League,Attack,22.0
+LaLiga,Defender,10.0
+LaLiga,Attack,120.0
+LaLiga,Goalkeeper,0.1
+Premier League,Defender,7.0
+Premier League,Attack,7.5
+LaLiga,Midfield,0.8
+LaLiga,Defender,0.2
+LaLiga,Goalkeeper,0.1
+Serie A,Goalkeeper,0.01
+Bundesliga,Attack,25.0
+Bundesliga,Defender,4.0
+Bundesliga,Attack,0.7
+Ligue 1,Defender,0.05
+Serie A,Midfield,8.0
+Ligue 1,Defender,9.0
+LaLiga,Defender,0.6
+LaLiga,Midfield,0.3
+LaLiga,Attack,4.0
+Serie A,Defender,0.1
+Bundesliga,Midfield,15.0
+Serie A,Midfield,65.0
+Ligue 1,Midfield,0.3
+Premier League,Attack,1.8
+Bundesliga,Defender,9.0
+Ligue 1,Attack,5.0
+Bundesliga,Attack,2.0
+LaLiga,Defender,10.0
+Premier League,Defender,0.75
+Ligue 1,Attack,12.0
+Ligue 1,Defender,5.0
+Premier League,Attack,15.0
+Ligue 1,Midfield,0.2
+Premier League,Attack,6.0
+Serie A,Defender,2.5
+Serie A,Attack,12.0
+LaLiga,Attack,10.0
+LaLiga,Defender,30.0
+LaLiga,Defender,1.0
+Ligue 1,Defender,3.0
+Premier League,Attack,10.0
+Premier League,Attack,0.7
+Serie A,Midfield,1.8
+Ligue 1,Midfield,0.9
+Ligue 1,Defender,0.6
+Premier League,Midfield,60.0
+Ligue 1,Midfield,3.5
+Bundesliga,Defender,7.0
+Ligue 1,Attack,0.4
+Serie A,Midfield,6.0
+Serie A,Midfield,8.5
+Premier League,Midfield,18.0
+Serie A,Defender,10.0
+Ligue 1,Goalkeeper,0.15
+Serie A,Midfield,0.2
+Ligue 1,Defender,0.05
+Ligue 1,Defender,9.0
+Ligue 1,Attack,7.0
+Premier League,Defender,1.0
+Premier League,Midfield,25.0
+Serie A,Defender,0.45
+Bundesliga,Goalkeeper,7.0
+Bundesliga,Attack,2.0
+Ligue 1,Defender,20.0
+Ligue 1,Midfield,4.0
+Ligue 1,Midfield,2.0
+Premier League,Defender,20.0
+Ligue 1,Defender,15.0
+LaLiga,Defender,30.0
+Premier League,Defender,55.0
+Premier League,Defender,20.0
+Premier League,Defender,1.5
+Bundesliga,Defender,1.0
+Bundesliga,Midfield,0.25
+Ligue 1,Defender,0.4
+Premier League,Defender,8.0
+Premier League,Midfield,20.0
+Ligue 1,Attack,0.5
+Ligue 1,Midfield,7.0
+Premier League,Attack,2.5
+Premier League,Attack,40.0
+Premier League,Attack,1.0
+Ligue 1,Midfield,12.0
+Serie A,Attack,8.5
+LaLiga,Defender,10.0
+Ligue 1,Defender,3.0
+LaLiga,Defender,0.2
+LaLiga,Defender,1.0
+LaLiga,Midfield,1.0
+LaLiga,Attack,0.3
+Ligue 1,Goalkeeper,0.5
+Premier League,Attack,5.0
+Premier League,Midfield,6.0
+Bundesliga,Defender,0.15
+Premier League,Defender,1.0
+Ligue 1,Attack,7.0
+Serie A,Attack,15.0
+Premier League,Attack,25.0
+Premier League,Attack,4.0
+Serie A,Attack,12.0
+LaLiga,Defender,5.0
+Premier League,Defender,7.0
+LaLiga,Midfield,0.5
+Ligue 1,Attack,0.3
+LaLiga,Defender,0.5
+Bundesliga,Attack,25.0
+Premier League,Attack,4.0
+Bundesliga,Defender,0.15
+Bundesliga,Midfield,0.25
+Bundesliga,Midfield,60.0
+Ligue 1,Goalkeeper,0.15
+LaLiga,Defender,15.0
+Bundesliga,Defender,8.0
+Premier League,Defender,10.0
+Ligue 1,Attack,2.5
+Serie A,Attack,0.7
+Bundesliga,Defender,20.0
+Ligue 1,Defender,8.0
+Ligue 1,Defender,1.0
+Ligue 1,Attack,0.7
+Ligue 1,Midfield,40.0
+LaLiga,Attack,0.25
+Ligue 1,Attack,5.0
+Premier League,Defender,0.5
+Premier League,Midfield,1.2
+Premier League,Attack,15.0
+Premier League,Attack,12.0
+Ligue 1,Defender,0.8
+Serie A,Attack,0.15
+Serie A,Defender,15.0
+Bundesliga,Midfield,4.0
+Bundesliga,Midfield,1.0
+Ligue 1,Attack,6.0
+Premier League,Attack,15.0
+Ligue 1,Midfield,8.0
+Serie A,Attack,10.0
+Ligue 1,Defender,10.0
+Premier League,Midfield,3.5
+Bundesliga,Attack,2.5
+LaLiga,Defender,4.0
+Ligue 1,Defender,0.1
+Ligue 1,Defender,12.0
+Ligue 1,Attack,4.0
+Ligue 1,Attack,5.0
+LaLiga,Defender,0.3
+LaLiga,Goalkeeper,0.4
+Ligue 1,Defender,1.5
+Premier League,Midfield,14.0
+Ligue 1,Attack,0.3
+Ligue 1,Attack,25.0
+Ligue 1,Defender,0.25
+Serie A,Attack,30.0
+Ligue 1,Defender,8.0
+Ligue 1,Midfield,0.2
+Premier League,Defender,4.0
+Ligue 1,Midfield,0.5
+Premier League,Midfield,0.25
+Ligue 1,Attack,0.05
+Ligue 1,Defender,1.0
+Bundesliga,Attack,45.0
